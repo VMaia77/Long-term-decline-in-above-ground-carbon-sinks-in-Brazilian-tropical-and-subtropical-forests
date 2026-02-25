@@ -1,0 +1,21 @@
+raw;var
+(Intercept);Intercept
+warm_dry_climate_scaled;Cold-wet -> Warm-dry
+shannon_hill_scaled;Taxonomic diversity
+year_scaled;Year
+warm_dry_climate_scaled:year_scaled;Cold-wet -> Warm-dry:Year
+sla_sd_scaled:year_scaled;SLA disp:Year
+sla_sd_scaled;SLA disp
+wd_sd_scaled:year_scaled;WD disp:Year
+wd_sd_scaled;WD disp
+cwm_sla_scaled;SLA
+cwm_sla_scaled:year_scaled;SLA:Year
+cwm_wd_scaled;WD
+cwm_wd_scaled:year_scaled;WD:Year
+shannon_hill_scaled:year_scaled;Taxonomic diversity:Year
+sespd_scaled;Phylogenetic diversity
+sespd_scaled:year_scaled;Phylogenetic diversity:Year
+site_area_ha_log_scaled;Site area
+soil_fertily_scaled;Soil fertility
+aluminum_phosphorus_scaled;Aluminum - phosphorus
+phosphorus_magnesium_scaled;Phosphorus -> magnesium
